@@ -1,0 +1,1 @@
+{"alert_id": "LAB-003", "timestamp": "2026-09-27T12:00:00", "source": "mini-lab", "indicator": "8.8.8.8", "type": "ip", "severity": "low"}
