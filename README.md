@@ -51,4 +51,4 @@ Delete `output/alerts.db` to reset history.
 - Watch folder for many alerts
 
 ---
-*Notes by Abhijith — learning SOC by building.*
+*Note by AbhijithLinux — learning SOC by building.*
